@@ -14,9 +14,9 @@ main()
      	 	printf(" %d",st);
      	 	sum+=st;
      	 	
-		  }
+	  }
 		  goto start;
-	 }
-	 printf(" \n ans :%d",sum);
+      }
+	printf(" \n ans :%d",sum);
 }
 	 
